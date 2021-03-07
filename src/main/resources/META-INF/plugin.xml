@@ -15,5 +15,9 @@
 
   <actions>
     <!-- Add your actions here -->
+    <action id="com.ruowen.easytools.demo" class="com.ruowen.easytools.demo.HelloWorldDemo" text="HelloWold"
+            description="Say Hello World">
+      <add-to-group group-id="GenerateGroup" anchor="last"/>
+    </action>
   </actions>
 </idea-plugin>
