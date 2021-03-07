@@ -26,5 +26,6 @@ patchPluginXml {
 
 publishPlugin {
     token = System.getenv("ORG_GRADLE_PROJECT_intellijPublishToken")
+//    beta / stable
     channels 'beta'
 }
