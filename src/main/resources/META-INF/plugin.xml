@@ -1,22 +1,19 @@
 <idea-plugin>
-    <id>org.example.EasyTools</id>
-    <name>Plugin display name here</name>
-    <vendor email="support@yourcompany.com" url="http://www.yourcompany.com">YourCompany</vendor>
+  <id>com.ruowen.EasyTools</id>
+  <name>个人开发Idea插件工具集合</name>
+  <vendor email="shu_wenjun@qq.com" url="">sureally</vendor>
 
-    <description><![CDATA[
-    Enter short description for your plugin here.<br>
-    <em>most HTML tags may be used</em>
-    ]]></description>
+  <!--    <description></description>-->
 
-    <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
-         on how to target different products -->
-    <depends>com.intellij.modules.platform</depends>
+  <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+       on how to target different products -->
+  <depends>com.intellij.modules.platform</depends>
 
-    <extensions defaultExtensionNs="com.intellij">
-        <!-- Add your extensions here -->
-    </extensions>
+  <extensions defaultExtensionNs="com.intellij">
+    <!-- Add your extensions here -->
+  </extensions>
 
-    <actions>
-        <!-- Add your actions here -->
-    </actions>
+  <actions>
+    <!-- Add your actions here -->
+  </actions>
 </idea-plugin>
