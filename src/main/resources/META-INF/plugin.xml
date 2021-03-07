@@ -1,6 +1,6 @@
 <idea-plugin>
   <id>com.ruowen.EasyTools</id>
-  <name>个人开发Idea插件工具集合</name>
+  <name>EasyTools</name>
   <vendor email="shu_wenjun@qq.com" url="">sureally</vendor>
 
   <description>若文开发的在IntelliJ IDEA使用的小工具集合的插件；另一方面也是为了学习插件开发。</description>
